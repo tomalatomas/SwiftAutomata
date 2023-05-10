@@ -1,6 +1,6 @@
 # SwiftAutomata
 
-School project for course IZA (Programming Apple Devices) at FIT BUT.
+School project for course IZA (Programming Apple Devices) at FIT BUT (Spring semester 2021).
 
 ## Task
 
